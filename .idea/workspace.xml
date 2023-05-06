@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SimpleConsoleApp.jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a955f88-9a16-4475-b6b8-58c98e52f445" name="Changes" comment="" />
+    <list default="true" id="6a955f88-9a16-4475-b6b8-58c98e52f445" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SimpleConsoleApp_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleConsoleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleConsoleApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2PMt4OR8N8VMyN0YP4NsAlYvrlp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,9 +49,99 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Java/mysql-connector.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "MySQL"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.3">
+    <configuration name="1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="2 denis_novoselov 1989-02-17 m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="another 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="2 alexander_novoselov 1963-05-03 m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clear" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="clear" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleConsoleApp" />
+      <module name="ConsoleTest" />
+      <option name="PROGRAM_PARAMETERS" value="2 denis_novoselov 1923-02-02 m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.1" />
+      <item itemvalue="Application.5" />
+      <item itemvalue="Application.2" />
+      <item itemvalue="Application.another 2" />
+      <item itemvalue="Application.3" />
+      <item itemvalue="Application.4" />
+      <item itemvalue="Application.clear" />
+      <item itemvalue="Application.third 2" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +150,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683278591937</updated>
+      <workItem from="1683278594694" duration="18251000" />
+      <workItem from="1683300862668" duration="3027000" />
+      <workItem from="1683304311662" duration="5739000" />
+      <workItem from="1683377118089" duration="8597000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
